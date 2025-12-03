@@ -1,0 +1,19 @@
+# requirements.txt - Dépendances du projet Prédiction des prix immobiliers
+
+# Manipulation et analyse des données
+pandas>=2.0.0
+numpy>=1.20.0
+
+# Machine Learning et modèles
+scikit-learn>=1.0.0
+
+# Visualisation et graphiques
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Utilitaires optionnels mais recommandés
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Suppression des avertissements (optionnel)
+# warnings (intégré à Python)
