@@ -7,7 +7,7 @@
 
 # 📘 GRAND GUIDE : ANATOMIE D'UN PROJET DE RÉGRESSION SUR LE DIABETES DATASET
 
-Ce document décortique chaque étape du cycle de vie d'un projet de Machine Learning appliqué à la **régression** sur le dataset Diabetes de Scikit-Learn. Il est conçu pour passer du niveau "je lance un modèle" au niveau "ingénieur qui comprend les mécanismes internes (données, modèle et métriques)".
+Ce document présente étape par étape le cycle de vie complet d’un projet de Machine Learning de régression appliqué au dataset Diabetes de Scikit-Learn. Il a pour objectif de passer d’une simple exécution de modèle à une compréhension approfondie de l’ensemble de la chaîne : préparation des données, choix du modèle, réglages et interprétation des métriques de performance.
 
 ---
 
