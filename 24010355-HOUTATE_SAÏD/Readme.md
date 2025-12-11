@@ -1,6 +1,6 @@
 ---
 
-<img src="https://img.sanishtech.com/u/51352d3b25c7912538c197953bad13e5.jpg"
+<img src="https://image2url.com/images/1765477369664-b50607c7-90bf-46f6-9d48-49fcb9b52851.jpg"
      alt="HOUATATE Saïd"
      style="height:200px; margin-right:200px; float:left; border-radius:10px;">
      
@@ -51,4 +51,7 @@ Développer un modèle capable d'estimer la **progression quantitative du diabè
    ↓
 7. Évaluation → MSE, RMSE, MAE, R² + Prédictions vs Réalité
 ```
-
+### Lien vers la vidéo explicative : 
+---
+https://drive.google.com/drive/folders/13wmPqoa4walPJeoydQ4i6Vw5rArtQLY7?usp=sharing
+---
