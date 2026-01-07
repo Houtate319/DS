@@ -1,7 +1,5 @@
 
-<img src="https://www.encgs.ac.ma/wp-content/uploads/2024/06/logo.png"
-     alt="Logo ENCG Settat"
-     style="height:200px; margin-right:200px; float:left; border-radius:10px;">
+<img src="https://www.encgs.ac.ma/wp-content/uploads/2024/06/logo.png" alt="Logo ENCG Settat" style="height:200px; margin-right:200px; float:left; border-radius:10px;">______________________________________________________________________________________________<img src="figures/HOUTATE Saïd CAC 2.jpg" style="height:200px;margin-right:200px"/>
 
 ---
 
